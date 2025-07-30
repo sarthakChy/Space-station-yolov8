@@ -1,0 +1,10 @@
+EPOCHS = 30
+MOSAIC = 0.7
+OPTIMIZER = 'AdamW'
+MOMENTUM = 0.2
+LR0 = 0.001
+LRF = 0.0001
+SINGLE_CLS = False
+
+#Added HyperParams
+MIXUP = 0.3
